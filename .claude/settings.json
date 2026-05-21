@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ClickUp__clickup_filter_tasks",
+      "mcp__ClickUp__clickup_get_task",
+      "mcp__ClickUp__clickup_get_task_comments",
+      "mcp__ClickUp__clickup_create_task_comment",
+      "mcp__ClickUp__clickup_send_chat_message",
+      "mcp__ClickUp__clickup_add_task_to_list",
+      "mcp__ClickUp__clickup_get_workspace_hierarchy",
+      "mcp__ClickUp__clickup_get_workspace_members",
+      "mcp__ClickUp__clickup_search",
+      "mcp__ClickUp__clickup_get_list",
+      "mcp__ClickUp__clickup_get_chat_channels",
+      "mcp__ClickUp__clickup_get_chat_channel_messages"
+    ],
+    "deny": []
+  }
+}
